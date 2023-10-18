@@ -17,7 +17,26 @@
 </ol>
 <ol>Utilized serialization for Note objects and JSON for data storage.
 </ol>
+  
 </li>
 <p>Skills Demonstrated:
 </p>
+
+<li>
+  <ul>Android app development
+</ul>
+  <ul>User interface design (UI/UX)
+</ul>
+  <ul>Data handling and storage using JSON
+</ul>
+  <ul>Effective use of RecyclerView
+</ul>
+  <ul>Activity management and interaction
+</ul>
+  <ul>AlertDialogs for user prompts
+</ul>
+  <ul>Data validation and error handling
+</ul>
+  
+</li>
 

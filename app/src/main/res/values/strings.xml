@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Course Notes App</string>
+    <string name="infooptions">infoOptions</string>
+    <string name="addoptions">addOptions</string>
+    <string name="courseid">courseId</string>
+    <string name="coursetitle">courseTitle</string>
+    <string name="notetext">noteText</string>
+    <string name="lastupdatetime">lastUpdateTime</string>
+    <string name="textview">TextView</string>
+    <string name="enter_course_id">Enter Course ID</string>
+    <string name="enter_course_title">Enter Course Title</string>
+    <string name="notetexttest">noteTextTest</string>
+    <string name="enter_course_note">Enter Course Note</string>
+</resources>
